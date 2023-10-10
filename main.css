@@ -138,9 +138,11 @@ body{
     width: 60%;
 }
 .ht-progress{
-    width: 20%;
+    width: 30%;
 }
-
+.py-progress{
+    width: 30%;
+}
 
 .skill-title{
     text-transform: uppercase;
